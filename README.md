@@ -1,0 +1,2 @@
+# ubuntuEA
+setting up git
