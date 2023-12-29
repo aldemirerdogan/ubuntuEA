@@ -1,4 +1,4 @@
-def factorial(n):  // function
+def factorial(n):  // function...
 	if n==0:
 		return 1
 	else:
